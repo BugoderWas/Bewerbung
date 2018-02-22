@@ -9,7 +9,7 @@ html, body {
 }
 
 .section {
-  height: 100vh;
+  min-height: 100vh;
   width: 100vw;
   padding: 0;
   margin: 0;
@@ -60,4 +60,13 @@ html, body {
 }
 .section-blue {
   background-color: #1f68d6;
+}
+
+@media (max-width: 960px) {
+
+  .container {
+    width: 90%;
+    margin: auto;
+  }
+
 }
