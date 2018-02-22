@@ -25,6 +25,10 @@ html, body {
   font-size: 22px;
   padding-top: 60px;
 }
+.section img {
+  height: 200px;
+  width: auto;
+}
 .container {
   margin: auto;
   padding-top: 200px;
@@ -34,4 +38,7 @@ html, body {
 }
 .section-yellow {
   background-color: #e6bf00;
+}
+.section-blue {
+  background-color: #1f68d6;
 }
