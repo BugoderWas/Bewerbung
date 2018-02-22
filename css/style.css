@@ -32,6 +32,7 @@ html, body {
 .container {
   margin: auto;
   padding-top: 200px;
+  width: 960px;
 }
 .section-orange {
   background-color: #df6d1a;
