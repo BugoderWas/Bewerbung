@@ -23,11 +23,29 @@ html, body {
 }
 .section p {
   font-size: 22px;
-  padding-top: 60px;
+  padding: 60px 0;
 }
 .section img {
   height: 200px;
   width: auto;
+}
+.section a {
+  padding: 7px 17px;
+  width: auto;
+  border: none;
+  border-radius: 1px;
+  text-decoration: none;
+  font-size: 1.8em;
+  color: #fff;
+  background-color: #df6d1a;
+  margin: 30px;
+  transition: 0.25s;
+}
+.section a:hover {
+  background-color: #fff;
+  border: 2px solid #df6d1a;
+  border-radius: 30px;
+  color: #df6d1a;
 }
 .container {
   margin: auto;
