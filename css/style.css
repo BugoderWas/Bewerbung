@@ -23,6 +23,7 @@ html, body {
 }
 .section p {
   font-size: 22px;
+  padding-top: 60px;
 }
 .container {
   margin: auto;
