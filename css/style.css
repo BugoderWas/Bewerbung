@@ -72,6 +72,9 @@ html, body {
   background-color: #1f68d6;
   width: 50vw;
 }
+.section-purple {
+  background-color: #9938d0;
+}
 
 @media (max-width: 960px) {
 
